@@ -8,9 +8,9 @@ function App() {
 			<div className="app__videos">
 				<Video />
 				<Video />
+				<Video />
+				<Video />
 			</div>
-			{/* App Container*/}
-			{/* <Video /> */ }
     </div>
   );
 }
