@@ -20,6 +20,11 @@ function VideoFooter() {
 					</Ticker>
 				</div>
 			</div>
+			<img
+				className="videoFooter__record"
+				src=""
+				alt=""
+			/>
 		</div>
 	);
 }
