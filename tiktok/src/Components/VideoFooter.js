@@ -10,14 +10,7 @@ function VideoFooter() {
 				<h3>@dnguyen</h3>
 				<p>Some descriptions</p>
 				<div className="videoFooter__ticker">
-					<MusicNoteIcon className="videoFooter__icon" />
-					<Ticker mode="smooth">
-						{({ index }) => (
-							<>
-								<p>I am a song</p>
-							</>
-						)}
-					</Ticker>
+					
 				</div>
 			</div>
 			<img
